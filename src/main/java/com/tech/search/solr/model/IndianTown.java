@@ -1,4 +1,4 @@
-package com.iamvickyav.indiantowns.solr.model;
+package com.tech.search.solr.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;

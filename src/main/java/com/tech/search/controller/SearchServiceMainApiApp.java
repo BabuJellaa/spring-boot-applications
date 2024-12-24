@@ -1,4 +1,4 @@
-package com.iamvickyav.indiantowns;
+package com.tech.search.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,8 @@ import org.springframework.data.solr.repository.config.EnableSolrRepositories;
 
 @SpringBootApplication
 @EnableSolrRepositories
-public class IndianTownsApiApp extends SpringBootServletInitializer {
+@Ena
+public class SearchServiceMainApiApp extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
@@ -16,7 +17,7 @@ public class IndianTownsApiApp extends SpringBootServletInitializer {
 	}
 
 	public static void main(String[] args) {
-		SpringApplication.run(IndianTownsApiApp.class, args);
+		SpringApplication.run(SearchServiceMainApiApp.class, args);
 	}
-
+	
 }

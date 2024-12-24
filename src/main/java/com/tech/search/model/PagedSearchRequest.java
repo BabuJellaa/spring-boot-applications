@@ -1,4 +1,4 @@
-package com.iamvickyav.indiantowns.model;
+package com.tech.search.model;
 
 public class PagedSearchRequest extends SearchRequest {
     private Integer page = 0;

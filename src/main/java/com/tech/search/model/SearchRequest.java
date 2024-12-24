@@ -1,4 +1,4 @@
-package com.iamvickyav.indiantowns.model;
+package com.tech.search.model;
 
 import javax.validation.constraints.NotBlank;
 
