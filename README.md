@@ -7,11 +7,8 @@ Welcome to my GitHub profile! I’m a passionate software developer who loves bu
 - Hibernate, Solr, Elasticsearch
 - Git, Docker, Kubernetes
 
-## 📈 GitHub Stats:
-![Babu's GitHub stats](https://github-readme-stats.vercel.app/api?username=babu&show_icons=true&count_private=true)
-
 ## 📣 Connect with Me:
-- [LinkedIn]([https://www.linkedin.com/in/babu](https://www.linkedin.com/feed/))
+- [LinkedIn]([https://www.linkedin.com/in/babu])
 - [Twitter](https://twitter.com/babu)
 
 ## 📚 Currently Learning:
